@@ -35,7 +35,3 @@ Meu nome é Yasmin Vieira, tenho 28 anos e estou cursando Análise e Desenvolvim
  
 > • [Linkedin](https://www.linkedin.com/in/yasmin-vieira-b68641213/)<br>
 > • [Rocketseat](https://app.rocketseat.com.br/me/yasmin-vieira-02498)
-
-
-
-→ [Voltar ao topo](#topo)
