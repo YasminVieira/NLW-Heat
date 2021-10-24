@@ -22,14 +22,17 @@ Este projeto foi criado pela Rocketseat e apresentado no NLW Heat, o último NLW
 
 <h2 id="layout">:triangular_ruler: Layout Mobile</h2>
 
+Cracha exclusivo para uso no evento DoWhile 2021 🚀<br>
+O projeto também pode ser encontrado [neste link](https://yasminvieira.github.io/NLW-Heat/)
+
 <p align="center">
   <img alt="Demonstração" src="https://github.com/YasminVieira/NLW-Heat/blob/main/images/cracha.jpg" width="230px" />
 </p>
 
 <h2 id="about-me">:girl: Sobre mim</h2>
 
-> Meu nome é Yasmin Vieira, tenho 28 anos e estou cursando Análise e Desenvolvimento de Sistemas. Nascida no Brasil, busco minha entrada na área de trabalho como desenvolvedora, principalmente usando JavaScript como linguagem. Atualmente, estou focada em entender melhor conceitos mais avançados de HTML e CSS. <br>
-> 
+Meu nome é Yasmin Vieira, tenho 28 anos e estou cursando Análise e Desenvolvimento de Sistemas. Nascida no Brasil, busco minha entrada na área de trabalho como desenvolvedora, principalmente usando JavaScript como linguagem. Atualmente, estou focada em entender melhor conceitos mais avançados de HTML e CSS. <br>
+ 
 > • [Linkedin](https://www.linkedin.com/in/yasmin-vieira-b68641213/)<br>
 > • [Rocketseat](https://app.rocketseat.com.br/me/yasmin-vieira-02498)
 
