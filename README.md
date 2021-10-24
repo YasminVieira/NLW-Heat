@@ -22,6 +22,9 @@ Este projeto foi criado pela Rocketseat e apresentado no NLW Heat, o último NLW
 
 <h2 id="layout">:triangular_ruler: Layout Mobile</h2>
 
+<p align="center">
+  <img alt="Demonstração" src="https://github.com/YasminVieira/NLW-Heat/blob/main/images/cracha.jpg" width="230px" />
+</p>
 
 <h2 id="about-me">:girl: Sobre mim</h2>
 
@@ -29,5 +32,7 @@ Este projeto foi criado pela Rocketseat e apresentado no NLW Heat, o último NLW
 > 
 > • [Linkedin](https://www.linkedin.com/in/yasmin-vieira-b68641213/)<br>
 > • [Rocketseat](https://app.rocketseat.com.br/me/yasmin-vieira-02498)
+
+
 
 → [Voltar ao topo](#topo)
